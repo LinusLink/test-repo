@@ -2,3 +2,6 @@
 Coursera test repo
 
 ## secondary
+* itemA
+* itemB
+* itemC
